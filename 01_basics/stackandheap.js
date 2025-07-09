@@ -19,4 +19,4 @@ user2={
     password:123
 }
 console.log(user)
-console.log(user2)
+console.log(user2) 
